@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+**/bin/
+**/obj/
+playwright-report/
+test-results/
+*.log
+.DS_Store
+*.tsbuildinfo
+
+__pycache__/
+*.pyc
+
+.local/
